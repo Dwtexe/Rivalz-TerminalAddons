@@ -41,6 +41,8 @@ Komut dosyaları birkaç npm paketine dayanır. Bunları yüklemek için aşağ�
 >Gerekli paketleri yüklemek için aşağıdaki komutu çalıştırın:\
 ```
 screen -S oasis
+```
+```
 npm install axios readline-sync figlet ws
 ```
 
